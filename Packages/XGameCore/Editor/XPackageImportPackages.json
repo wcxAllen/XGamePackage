@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "name": "XGameAddressable可寻址扩展",
+      "packageName": "com.xgame.xgamepackage-addressable",
+      "gitUrl": "file:L:/Work/iPlay/Heiyaoshi2/XGamePackage/Packages/XGameAddressable"
+    },
+    {
+      "name": "Custom Analytics",
+      "packageName": "com.xgame.analytics",
+      "gitUrl": "https://github.com/YourCompany/com.xgame.analytics.git"
+    }
+  ]
+}
