@@ -3,7 +3,7 @@
     {
       "name": "XGameAddressable可寻址扩展",
       "packageName": "com.xgame.xgamepackage-addressable",
-      "gitUrl": "file:L:/Work/iPlay/Heiyaoshi2/XGamePackage/Packages/XGameAddressable"
+      "gitUrl": "https://github.com/wcxAllen/XGamePackage.git?path=Packages/XGameAddressable"
     },
     {
       "name": "Custom Analytics",
