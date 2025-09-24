@@ -9,7 +9,11 @@
 		"xgame",
 		"xgamepackage",
 		"XGamePackage"
-		],
+		],		
+	"files":[
+	"Runtime",
+	"Editor"
+	],	
 	"autor":{
 		"name":"Allen",
 		"email":"769401725@qq.com"		
