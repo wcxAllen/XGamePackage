@@ -1,0 +1,26 @@
+{
+	"name":"com.xgame.superscrollview",
+	"version":"2.5.4",
+	"displayName":"SuperScrollView",
+	"description":"UGUI 无限循环 ScrollView 插件（第三方 Version 2.5.4）",
+	"unity":"2022.3",
+	"keywords":[
+		"SuperScrollView",
+		"superscrollView"
+		],		
+	"files":[
+	"Runtime",
+	"Editor"
+	],	
+	"samples":[
+    {
+	"displayName": "示例",
+	"description": "展示如何使用 SuperScrollView 的用法功能",
+	"path": "Samples~"
+    }
+	],	
+	"autor":{
+		"name":"Allen",
+		"email":"769401725@qq.com"		
+	}
+}
