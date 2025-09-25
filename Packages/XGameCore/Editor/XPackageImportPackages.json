@@ -6,9 +6,9 @@
       "gitUrl": "https://github.com/wcxAllen/XGamePackage.git?path=Packages/XGameAddressable"
     },
     {
-      "name": "Custom Analytics",
-      "packageName": "com.xgame.analytics",
-      "gitUrl": "https://github.com/YourCompany/com.xgame.analytics.git"
+      "name": "SuperScrollView,UGUI 无限循环 ScrollView 插件",
+      "packageName": "com.xgame.superscrollview",
+      "gitUrl": "https://github.com/wcxAllen/XGamePackage.git?path=Packages/SuperScrollView"
     }
   ]
 }

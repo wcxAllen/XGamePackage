@@ -1,0 +1,18 @@
+{
+    "name": "SuperScrollViewEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:72a9a9d5c0b93e345a8de6feac75344a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
