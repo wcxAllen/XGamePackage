@@ -2,7 +2,7 @@
     "name": "SuperScrollViewEditor",
     "rootNamespace": "",
     "references": [
-        "GUID:e3faecb16a7a41a408f766d5cc08628f"
+        "SuperScrollViewRuntime"
     ],
     "includePlatforms": [
         "Editor"
