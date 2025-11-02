@@ -12,7 +12,11 @@
 		],		
 	"files":[
 	"Runtime",
-	"Editor"
+	"Editor",
+	"Runtime/*.meta",
+	"Editor/*.meta",
+	"package.json",
+	"package.json.meta"
 	],	
 	"autor":{
 		"name":"Allen",
