@@ -1,6 +1,6 @@
 {
 	"name":"com.xgame.xgamepackage",
-	"version":"0.0.1",
+	"version": "0.0.1",
 	"displayName":"XGamePackage",
 	"description":"这是一个XGame底层封装包",
 	"unity":"2022.3",
@@ -12,7 +12,11 @@
 		],		
 	"files":[
 	"Runtime",
-	"Editor"
+	"Editor",
+	"Runtime/*.meta",
+	"Editor/*.meta",
+	"package.json",
+	"package.json.meta"
 	],	
 	"autor":{
 		"name":"Allen",
