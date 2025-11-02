@@ -13,6 +13,8 @@
 	"files":[
 	"Runtime",
 	"Editor",
+	"Runtime.meta",
+	"Editor.meta",
 	"Runtime/*.meta",
 	"Editor/*.meta",
 	"package.json",
