@@ -9,10 +9,10 @@
 		"superscrollView"
 		],		
 	"files":[
-	"Runtime/*.*",
-	"Editor/*.*",
-	"Runtime/*.meta",
-	"Editor/*.meta",
+	"Runtime/",
+	"Editor/",
+	"Runtime.meta",
+	"Editor.meta",
 	"package.json",
 	"package.json.meta"
 	],	
