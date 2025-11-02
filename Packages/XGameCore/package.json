@@ -11,12 +11,12 @@
 		"XGamePackage"
 		],		
 	"files":[
-	"Runtime/*.*",
-	"Runtime/*.*",
-	"Runtime/XGame*.*",
-	"Editor/XGame*.meta",
-	"Runtime/*.meta",
-	"Editor/*.meta",
+	"Runtime/",
+	"Editor/",
+	"Runtime/XGame",
+	"Runtime/XGame.meta",
+	"Runtime.meta",
+	"Editor.meta",
 	"package.json",
 	"package.json.meta"
 	],	
