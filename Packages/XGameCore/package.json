@@ -12,7 +12,9 @@
 		],		
 	"files":[
 	"Runtime/*.*",
-	"Editor/*.*",
+	"Runtime/*.*",
+	"Runtime/XGame*.*",
+	"Editor/XGame*.meta",
 	"Runtime/*.meta",
 	"Editor/*.meta",
 	"package.json",
